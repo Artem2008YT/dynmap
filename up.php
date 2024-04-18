@@ -1,6 +1,6 @@
 <?php
 
-define('HOSTNAME', 'http://185.9.145.8:8123/up/');
+define('HOSTNAME', 'http://185.9.145.8:38161/up/');
 
 session_start();
 
