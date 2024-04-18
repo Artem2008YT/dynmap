@@ -1,6 +1,6 @@
 <?php
 
-define('HOSTNAME', 'http://localhost:8123/up/');
+define('HOSTNAME', 'http://free6.cortexnodes.com:8123/up/');
 
 session_start();
 
